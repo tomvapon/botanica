@@ -1,0 +1,45 @@
+{
+    "title": "Árboles frutales",
+    "body": "En este apartado podrás encontrar información sobre árboles frutales.",
+    "trees": [{
+      "nombre": "El Manzano",
+      "nombreCientifico": "Malus domestica",
+      "descripcion": "El manzano es un árbol frutal de hoja caduca que produce una variedad de manzanas dulces y ácidas.",
+      "fechaSiembra": "Primavera",
+      "fruto": "Manzana",
+      "tipoCosecha": "Manual",
+      "image": "https://cdn.pixabay.com/photo/2016/11/30/15/23/apples-1873078_1280.jpg",
+      "extra": "https://www.jardineriaon.com/manzano.html"
+    },
+    {
+      "nombre": "El Naranjo",
+      "nombreCientifico": "Citrus sinensis",
+      "descripcion": "El naranjo es un árbol frutal perenne que produce frutos dulces y jugosos llamados naranjas.",
+      "fechaSiembra": "Otoño",
+      "fruto": "Naranja",
+      "tipoCosecha": "Manual",
+      "image": "https://p1.pxfuel.com/preview/469/688/979/oranges-fruit-orange-tree-spain.jpg",
+      "extra": "https://www.jardineriaon.com/naranjo.html"
+    },
+    {
+      "nombre": "El Limonero",
+      "nombreCientifico": "Citrus limon",
+      "descripcion": "El limonero es un árbol frutal perenne que produce frutos amarillos y ácidos llamados limones.",
+      "fechaSiembra": "Primavera",
+      "fruto": "Limón",
+      "tipoCosecha": "Manual",
+      "image": "https://p1.pxfuel.com/preview/630/397/95/lemon-grove-lemons-lemon-trees-green.jpg",
+      "extra": "https://www.jardineriaon.com/limonero-co"
+    },
+    {
+      "nombre": "El Peral",
+      "nombreCientifico": "Pyrus communis",
+      "descripcion": "El peral es un árbol frutal de hoja caduca que produce peras dulces y jugosas.",
+      "fechaSiembra": "Otoño",
+      "fruto": "Pera",
+      "tipoCosecha": "Manual",
+      "image": "https://p1.pxfuel.com/preview/341/557/167/pear-tree-fruits-nature.jpg",
+      "extra": "https://www.jardineriaon.com/peral-pyrus-communis.html"
+    }]
+}
+  

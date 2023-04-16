@@ -1,0 +1,43 @@
+{
+    "title": "Flores",
+    "body": "En este apartado podrás encontrar información sobre algunas flores.",
+    "flowers": [
+      {
+        "nombre": "La Rosa",
+        "nombre_cientifico": "Rosa spp.",
+        "descripcion": "La rosa es una flor conocida por su belleza y aroma. Hay muchas variedades de rosas con diferentes colores y formas de flor. Las rosas son populares en la jardinería y como flores de corte.",
+        "fecha_siembra": "Primavera",
+        "fecha_floracion": "Verano",
+        "image": "https://p1.pxfuel.com/preview/653/702/399/rose-flower-flowers-red-rose.jpg",
+        "extra": "https://es.wikipedia.org/wiki/Rosa"
+      },
+      {
+        "nombre": "El Tulipán",
+        "nombre_cientifico": "Tulipa spp.",
+        "descripcion": "El tulipán es una flor bulbosa que viene en una variedad de colores brillantes. Los tulipanes son populares en la jardinería y como flores cortadas. Se originaron en Asia Central y fueron introducidos en Europa en el siglo XVI.",
+        "fecha_siembra": "Otoño",
+        "fecha_floracion": "Primavera",
+        "image": "https://p1.pxfuel.com/preview/459/349/316/colorful-flowers-gardens-green.jpg",
+        "extra": "https://www.hogarmania.com/jardineria/fichas/plantas/tulipan-16117.html"
+      },
+      {
+        "nombre": "El Girasol",
+        "nombre_cientifico": "Helianthus annuus",
+        "descripcion": "El girasol es una flor grande y brillante con pétalos amarillos y un centro marrón. Los girasoles son comúnmente cultivados por su aceite y semillas, pero también son populares en jardines y como flores cortadas.",
+        "fecha_siembra": "Primavera",
+        "fecha_floracion": "Verano",
+        "image": "https://p1.pxfuel.com/preview/399/3/789/sunflowers-garden-fields-yellow.jpg",
+        "extra": "https://es.wikipedia.org/wiki/Helianthus_annuus"
+      },
+      {
+        "nombre": "La Orquídea",
+        "nombre_cientifico": "Orchidaceae",
+        "descripcion": "Las orquídeas son una familia de plantas con flores muy diversas y numerosas especies. Sus flores son muy variadas y con una gran variedad de formas, tamaños y colores. Son muy populares como plantas ornamentales por sus flores vistosas y aromáticas.",
+        "fecha_siembra": "Primavera",
+        "fecha_floracion": "Varía según la especie",
+        "image": "https://p1.pxfuel.com/preview/573/95/707/flower-flowers-bouquet-tropical.jpg",
+        "extra": "https://www.elmueble.com/plantas-flores/como-cuidar-bien-orquideas_43657"
+      }
+    ]    
+}
+  

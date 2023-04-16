@@ -1,0 +1,16 @@
+.page-div{
+    padding: 1rem;
+    margin: 1rem;
+    background-color: rgba(0, 143, 98, 0.8);
+}
+
+.page-title{
+    text-align: center;
+    color: black;
+}
+
+.page-body{
+    text-align: justify;
+    font-size: large;
+    font-weight: bold;
+}
