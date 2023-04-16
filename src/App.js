@@ -7,6 +7,7 @@ import Concepts from './pages/concepts/Concepts';
 import Home from './pages/home/Home';
 import Arboles from './pages/arboles/arboles';
 import Flores from './pages/flores/flores';
+import About from './pages/about/About';
 
 class App extends React.Component {
   constructor(props) {
@@ -26,6 +27,9 @@ class App extends React.Component {
         break;
       case "home":
         page = Home;
+        break
+      case "sobremi":
+        page = About
         break
       case "arboles":
         value = pathlist[2]
