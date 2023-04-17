@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.clock {
+  font-weight: bold;
+  color: white;
+  vertical-align: middle;
+  align-content: center;
+}
